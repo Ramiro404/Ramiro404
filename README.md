@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramiro404
-- 👀 I’m interested in java and web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning rest api
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me ramirocruznavarro@hotmail.com
