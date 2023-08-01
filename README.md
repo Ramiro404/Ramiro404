@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ramiro404
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning rest api
+- 👋 Hi, I’m Ramiro de la Cruz Navarro
+- 👀 I’m interested in software engineering and programming
+- 🌱 I’m actively learning
 - 💞️ I’m looking to collaborate on anyone
 
 <!---
