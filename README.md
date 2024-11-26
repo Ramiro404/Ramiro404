@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Ramiro de la Cruz Navarro
-- 👀 I’m interested in software engineering and programming
-- 🌱 I’m actively learning
-- 💞️ I’m looking to collaborate on anyone
+  I am currently developing a Point Of Sale system about a hardware store, where clients can order a variety of products
+  I am using the following technologies
+  - .Net Core
+  - Entity Framework
+  - LinQ
+  - React
+  - PostgreSql
 
 <!---
 Ramiro404/Ramiro404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
